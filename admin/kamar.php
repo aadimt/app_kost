@@ -59,5 +59,6 @@ $kamar = $conn->query("SELECT * FROM tb_kamar ORDER BY id DESC");
     </tr>
     <?php endwhile; ?>
   </tbody>
-</table>
+    </table>
+    
 
