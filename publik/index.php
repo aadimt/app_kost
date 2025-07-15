@@ -94,7 +94,7 @@ include("$base/config/db.php");
   <h2>Selamat Datang di Info Kost Bapak Aduy</h2>
   <p>Silakan pilih menu di samping.</p>
   <p>
-    Kosan Bapak Aduy berlokasi strategis di daerah Jayanti, Tangerang, dekat dengan berbagai fasilitas umum seperti warung makan, minimarket, dan transportasi umum. 
+    Kosan Bapak Aduy berlokasi strategis di daerah Jayanti, Bandung, dekat dengan berbagai fasilitas umum seperti warung makan, minimarket, dan transportasi umum. 
     Kos ini menyediakan kamar bersih dan nyaman dengan harga terjangkau. 
     Setiap kamar dilengkapi fasilitas dasar, dan tersedia pilihan barang tambahan dengan biaya ringan.
     Sistem administrasi kosan ini sudah terkomputerisasi, sehingga memudahkan pengecekan data penghuni, kamar, barang, tagihan, dan riwayat pembayaran.
