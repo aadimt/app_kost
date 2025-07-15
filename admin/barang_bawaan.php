@@ -1,4 +1,4 @@
-<h2>Data Barang Bawaan Penghuni</h2>
+<h2>Data Barang Bawaan Penghuni Kost</h2>
 <a href="?page=barang_bawaan&action=tambah" class="btn btn-success mb-3">+ Tambah Data</a>
 
 <?php
