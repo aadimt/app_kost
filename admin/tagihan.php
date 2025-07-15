@@ -43,7 +43,7 @@ if (isset($_POST['generate'])) {
 
 <hr>
 
-<h4>Daftar Tagihan Bulan Ini</h4>
+<h4>Daftar Tagihan Penghuni Bulan Ini</h4>
 <table class="table table-bordered">
   <thead>
     <tr>
