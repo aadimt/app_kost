@@ -70,9 +70,11 @@ $penghuni = $conn->query("SELECT * FROM tb_penghuni ORDER BY id DESC");
       <td><?= $row['tgl_masuk'] ?></td>
       <td><?= $row['tgl_keluar'] ?: '-' ?></td>
       <td>
-        <a href="?page=penghuni&delete=<?= $row['id'] ?>" class="btn btn-sm btn-danger" onclick="return confirm('Hapus data ini?')">Hapus</a>
-      </td>
-    </tr>
-    <?php endwhile; ?>
-  </tbody>
-</table>
+        <a href="?page=penghuni&delete=<?= $data['id'] ?>" class="btn btn-danger" onclick="return confirm('Hapus data ini?')">Hapus</a>
+        </td>
+      </tr>
+      <?php endwhile; ?>
+    </tbody>
+  </table>
+</body>
+</html>
